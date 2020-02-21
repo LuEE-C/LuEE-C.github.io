@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, École Polytechnique de Montréal, 2018
+* Ph.D in Deep Learning, MILA / École Polytechnique de Montréal, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018 - ongoing: Quantitative Research Scientist
+  * Shell Street Labs
+  * Conceptualize, develop and deliver trading strategies used to trade hundreds of millions of dollars
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: AI Research Intern
+  * Ubisoft, LaForge
+  * Implement and iterate with state of the art deep learning text to speech models
+
+* Summer 2017: Data science intern
+  * Société Générale
+  * Developed machine learning based solution to predictive maintenance on a wide array of technologies.
   
-Skills
+Kaggle
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Kaggle Master
+  * Best global rank : 442th / 133469 Data scientist
+  * Gendered Pronoun Resolution: Gold Medal
+  * Jigsaw Unintended Bias in Toxicity Classification : Silver Medal
+  * Sberbank Russian Housing Market: Silver Medal
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
