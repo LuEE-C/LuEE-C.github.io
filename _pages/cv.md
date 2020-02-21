@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2018 - ongoing: Quantitative Research Scientist
   * Shell Street Labs
-  * Conceptualize, develop and deliver trading strategies used to trade hundreds of millions of dollars
+  * Conceptualize, develop and deliver trading strategies used to invest hundreds of millions of dollars
 
 * Summer 2018: AI Research Intern
   * Ubisoft, LaForge
