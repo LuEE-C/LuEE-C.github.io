@@ -81,10 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Louis Clouâtre"
-  avatar           : "profile.png"
+  avatar           : "LouisClouatre.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Montréal, Canada"
-  employer         : "Shell Street Labs"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=-aK9ezQAAAAJ&gmla=AJsN-F4_PBCMc5SC_xhFEFBr3Oda449UE20LTJIesAy1yWbfTRjQKqPU4c2_jk00BSFbs0lgjko2nA8BAlSPbE29fJEiQznFpe7xhs2DysGTVkQOCw_IZ2zS4GSB5GQiVlaKuXVo4mUJ"
   email            : "louis.cloua@gmail.com"
   github           : "LuEE-C"
