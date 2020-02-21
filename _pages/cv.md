@@ -43,4 +43,4 @@ Publications
   {% endfor %}</ul>
 
 Perfectly trilingual: French, English and Python
-======
+
