@@ -84,14 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Montréal, Canada"
-  employer         : "https://www.linkedin.com/company/shell-street-labs/about/"
+  employer         : "Shell Street Labs"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=-aK9ezQAAAAJ&gmla=AJsN-F4_PBCMc5SC_xhFEFBr3Oda449UE20LTJIesAy1yWbfTRjQKqPU4c2_jk00BSFbs0lgjko2nA8BAlSPbE29fJEiQznFpe7xhs2DysGTVkQOCw_IZ2zS4GSB5GQiVlaKuXVo4mUJ"
   email            : "louis.cloua@gmail.com"
   github           : "LuEE-C"
   linkedin         : "https://www.linkedin.com/in/louis-clou%C3%A2tre-aab89ab5/"
-  orcid            : "http://orcid.org/yourorcidurl"
   kaggle           : "https://www.kaggle.com/octthe16th"
-  twitter          : "replacethistwitterhandle"
 
 
 # Reading Files
