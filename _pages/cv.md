@@ -24,7 +24,7 @@ Work experience
   * Ubisoft, LaForge
   * Implement and iterate with state of the art deep learning text to speech models
 
-* Summer 2017: Data science intern
+* Summer 2017: Data science Intern
   * Société Générale
   * Developed machine learning based solution to predictive maintenance on a wide array of technologies.
   
@@ -42,5 +42,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Open Source Project
+======
+
+* [PPO-Keras](https://github.com/LuEE-C/PPO-Keras)
+  * The first implementation of [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347) in the Keras framework.
+* [FIGR](https://github.com/LuEE-C/FIGR)
+  * Few-shot image generation by meta-training a [Generative Adversarial Network](https://arxiv.org/abs/1406.2661) with the [Reptile](https://arxiv.org/abs/1803.02999) algorithm.
+* [FIGR-8](https://github.com/marcdemers/FIGR-8)
+  * Dataset containing 1.5 million images in 17000 classes. Intended for few-shot classification or few-shot image generation tasks.
+  
 Perfectly trilingual: French, English and Python
 
