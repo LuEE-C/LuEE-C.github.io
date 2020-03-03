@@ -17,7 +17,7 @@ Education
 Research Interest
 ======
 * Natural Language Processing
-  * Exploring emerging properties from very large pre-trained models such as [BERT](https://arxiv.org/abs/1810.04805)
+  * Exploring emerging properties from very large pre-trained models such as [BERT](https://arxiv.org/abs/1810.04805).
   * Zero-shot question answering as well as information embedding within a model's parameters.
   
 * Meta-Learning
